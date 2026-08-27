@@ -1,0 +1,33 @@
+{
+  "candidateId": "cf8ff037-fef0-4b28-9184-32b9f9e65ce3",
+  "projectId": "b86b7ae8-30eb-4ba1-9535-6b02cc1c4bd4",
+  "runId": "9b17a4b3-d279-4348-8f5b-79219b8cfd60",
+  "conversationId": "36b36621-860e-4bf6-856e-32c5b6e2ba87",
+  "provenance": {
+    "summary": "Detected from plugin-source/skill-observation-log-mtc4po5c/references/source-1-log.md, plugin-source/skill-observation-log-mtc4po5c/SKILL.md, skill-observations/log.md after a successful run.",
+    "detectedAt": 1787872066137
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "plugin-source/skill-observation-log-mtc4po5c/references/source-1-log.md",
+      "label": "plugin-source/skill-observation-log-mtc4po5c/references/source-1-log.md",
+      "size": 6786,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "plugin-source/skill-observation-log-mtc4po5c/SKILL.md",
+      "label": "plugin-source/skill-observation-log-mtc4po5c/SKILL.md",
+      "size": 6880,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "skill-observations/log.md",
+      "label": "skill-observations/log.md",
+      "size": 6786,
+      "copied": true
+    }
+  ]
+}
